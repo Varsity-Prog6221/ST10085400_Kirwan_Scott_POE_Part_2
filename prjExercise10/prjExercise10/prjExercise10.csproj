@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Desktop\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\lab_services_student\OneDrive\Documents\C#\prjArrayLists.cs" Link="prjArrayLists.cs" />
+  </ItemGroup>
+
+</Project>

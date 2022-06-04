@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjCalculator", "prjCalculator.csproj", "{8016CCDD-1F08-4E49-AF39-7C03807B5DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8016CCDD-1F08-4E49-AF39-7C03807B5DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8016CCDD-1F08-4E49-AF39-7C03807B5DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8016CCDD-1F08-4E49-AF39-7C03807B5DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8016CCDD-1F08-4E49-AF39-7C03807B5DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F92A2AB-8454-41F0-8734-87D9F6FC33D7}
+	EndGlobalSection
+EndGlobal
